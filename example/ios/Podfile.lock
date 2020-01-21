@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - MMKV (1.0.24)
+  - ro_fmmkv (0.0.1):
+    - Flutter
+    - MMKV
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - ro_fmmkv (from `.symlinks/plugins/ro_fmmkv/ios`)
+
+SPEC REPOS:
+  trunk:
+    - MMKV
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  ro_fmmkv:
+    :path: ".symlinks/plugins/ro_fmmkv/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  MMKV: 758b2edee46b08bdd958db4169191afb9a6d4ebd
+  ro_fmmkv: eba1e54a6b816488bb88b459a175bc120cff29af
+
+PODFILE CHECKSUM: 3dbe063e9c90a5d7c9e4e76e70a821b9e2c1d271
+
+COCOAPODS: 1.8.4
