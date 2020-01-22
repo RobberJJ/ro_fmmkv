@@ -1,5 +1,6 @@
 name: ro_fmmkv_example
 description: Demonstrates how to use the ro_fmmkv plugin.
+version: 0.0.1
 publish_to: 'none'
 
 environment:

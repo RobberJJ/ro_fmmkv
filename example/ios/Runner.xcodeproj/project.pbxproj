@@ -80,7 +80,6 @@
 				529640D43A00C4436FC570CE /* Pods-Runner.release.xcconfig */,
 				2FB804792010ADCAF0D22331 /* Pods-Runner.profile.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -388,7 +387,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.roFmmkvExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ro.roFmmkvExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -518,7 +517,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.roFmmkvExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ro.roFmmkvExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -541,7 +540,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.roFmmkvExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ro.roFmmkvExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
